@@ -1,4 +1,4 @@
-package main;
+package main.java;
 
 public class jenkins_test_main {
 	
