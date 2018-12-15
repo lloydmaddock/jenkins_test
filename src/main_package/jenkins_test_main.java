@@ -16,7 +16,7 @@ public class jenkins_test_main {
 		float total=0.0f;
 		
 		for(float number:numbers)
-		{
+		{ 
 			total+=number;
 		}
 		return total;
