@@ -6,7 +6,7 @@ public class jenkins_test_main {
 	{
 		System.out.println("Hello Jenkins");
 		
-		float result = addSomeNumbers(1.0f,2.0f,3.0f);
+		float result = addSomeNumbers(1.0f,2.0f,3.0f,4.0f);
 		
 		System.out.println("Result is "+result);
 	}
@@ -21,7 +21,5 @@ public class jenkins_test_main {
 		}
 		return total;
 	}
-	
-	deliberate error
 
 }
