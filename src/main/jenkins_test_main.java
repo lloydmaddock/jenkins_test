@@ -1,4 +1,4 @@
-package main_package;
+package main;
 
 public class jenkins_test_main {
 	
