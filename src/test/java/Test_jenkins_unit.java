@@ -6,7 +6,7 @@ import main.java.jenkins_test_main;
 
 import org.junit.jupiter.api.Test;
 
-class test_jenkins_unit {
+class Test_jenkins_unit {
 
 	@Test
 	void test() {
