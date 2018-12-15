@@ -21,5 +21,7 @@ public class jenkins_test_main {
 		}
 		return total;
 	}
+	
+	deliberate error
 
 }
